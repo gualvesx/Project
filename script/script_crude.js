@@ -32,4 +32,6 @@ async function cadastrarLocalizacoes()
 
 }
 
+
+
 document.getElementById("btn-salvar").addEventListener("click", cadastrarLocalizacoes)
